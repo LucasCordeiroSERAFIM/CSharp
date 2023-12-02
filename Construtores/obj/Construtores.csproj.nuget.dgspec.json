@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programacao\\Backend\\Construtores\\Construtores.csproj": {}
+    "C:\\Programacao\\Backend\\CSharp\\Construtores\\Construtores.csproj": {}
   },
   "projects": {
-    "C:\\Programacao\\Backend\\Construtores\\Construtores.csproj": {
+    "C:\\Programacao\\Backend\\CSharp\\Construtores\\Construtores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacao\\Backend\\Construtores\\Construtores.csproj",
+        "projectUniqueName": "C:\\Programacao\\Backend\\CSharp\\Construtores\\Construtores.csproj",
         "projectName": "Construtores",
-        "projectPath": "C:\\Programacao\\Backend\\Construtores\\Construtores.csproj",
+        "projectPath": "C:\\Programacao\\Backend\\CSharp\\Construtores\\Construtores.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacao\\Backend\\Construtores\\obj\\",
+        "outputPath": "C:\\Programacao\\Backend\\CSharp\\Construtores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

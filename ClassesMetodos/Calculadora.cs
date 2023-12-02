@@ -2,20 +2,19 @@ namespace Program;
 
 public class Calculadora{
 
-    public double Somar(double n1,double n2){
-        return n1 + n2; 
+    public double Somar(Calculo calculo){
+        return calculo.Numero1 + calculo.Numero2; 
     }
 
-    public double Subtrair(double n1,double n2){
-        return n1 - n2; 
+    public double Subtrair(Calculo calculo){
+        return calculo.Numero1 - calculo.Numero2; 
     }
-    public double Dividir(double n1,double n2){
-        return n1 / n2; 
+    public double Dividir(Calculo calculo){
+        return calculo.Numero1 / calculo.Numero2; 
         
     }
 
-      public double Multiplicar(double n1,double n2){
-        return n1 * n2; 
-        
-    }
+      public double Multiplicar(Calculo calculo){
+        return calculo.Numero1 * calculo.Numero2; 
+}
 }

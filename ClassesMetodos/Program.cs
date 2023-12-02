@@ -6,15 +6,17 @@ namespace Program
     {
         static void Main(string[] args)
         {
-           Calculadora calculadora = new Calculadora();
+           Calculadora calculadora = new Calculadora(); //instanciando a classe
+
+           Calculo calculo = new Calculo();
 
            Console.WriteLine("Digite um Numero");
-           double num1 = Convert.ToDouble(Console.ReadLine());
+           calculo.Numero1 = Convert.ToDouble(Console.ReadLine());
 
            Console.WriteLine("Digite outro Numero");
-           double num2 = Convert.ToDouble(Console.ReadLine());
+           calculo.Numero2 = Convert.ToDouble(Console.ReadLine());
 
-           double resultado = calculadora.Somar(num1,num2);
+           double resultado = calculadora.Somar(calculo);
             Console.WriteLine($"O resultado da soma é {resultado}");
         }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programacao\\Backend\\Classes\\Classses.csproj": {}
+    "C:\\Programacao\\Backend\\CSharp\\ClassesMetodos\\Classses.csproj": {}
   },
   "projects": {
-    "C:\\Programacao\\Backend\\Classes\\Classses.csproj": {
+    "C:\\Programacao\\Backend\\CSharp\\ClassesMetodos\\Classses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacao\\Backend\\Classes\\Classses.csproj",
+        "projectUniqueName": "C:\\Programacao\\Backend\\CSharp\\ClassesMetodos\\Classses.csproj",
         "projectName": "Classses",
-        "projectPath": "C:\\Programacao\\Backend\\Classes\\Classses.csproj",
+        "projectPath": "C:\\Programacao\\Backend\\CSharp\\ClassesMetodos\\Classses.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacao\\Backend\\Classes\\obj\\",
+        "outputPath": "C:\\Programacao\\Backend\\CSharp\\ClassesMetodos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

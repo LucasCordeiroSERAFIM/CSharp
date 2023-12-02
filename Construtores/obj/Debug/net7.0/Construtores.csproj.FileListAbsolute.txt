@@ -1,0 +1,15 @@
+C:\Programacao\Backend\Construtores\bin\Debug\net7.0\Construtores.exe
+C:\Programacao\Backend\Construtores\bin\Debug\net7.0\Construtores.deps.json
+C:\Programacao\Backend\Construtores\bin\Debug\net7.0\Construtores.runtimeconfig.json
+C:\Programacao\Backend\Construtores\bin\Debug\net7.0\Construtores.dll
+C:\Programacao\Backend\Construtores\bin\Debug\net7.0\Construtores.pdb
+C:\Programacao\Backend\Construtores\obj\Debug\net7.0\Construtores.csproj.AssemblyReference.cache
+C:\Programacao\Backend\Construtores\obj\Debug\net7.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao\Backend\Construtores\obj\Debug\net7.0\Construtores.AssemblyInfoInputs.cache
+C:\Programacao\Backend\Construtores\obj\Debug\net7.0\Construtores.AssemblyInfo.cs
+C:\Programacao\Backend\Construtores\obj\Debug\net7.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Programacao\Backend\Construtores\obj\Debug\net7.0\Construtores.dll
+C:\Programacao\Backend\Construtores\obj\Debug\net7.0\refint\Construtores.dll
+C:\Programacao\Backend\Construtores\obj\Debug\net7.0\Construtores.pdb
+C:\Programacao\Backend\Construtores\obj\Debug\net7.0\Construtores.genruntimeconfig.cache
+C:\Programacao\Backend\Construtores\obj\Debug\net7.0\ref\Construtores.dll

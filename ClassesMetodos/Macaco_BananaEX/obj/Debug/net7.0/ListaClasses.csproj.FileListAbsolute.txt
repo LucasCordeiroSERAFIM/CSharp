@@ -1,0 +1,15 @@
+C:\Programacao\Backend\CSharp\ListaClasses\bin\Debug\net7.0\ListaClasses.exe
+C:\Programacao\Backend\CSharp\ListaClasses\bin\Debug\net7.0\ListaClasses.deps.json
+C:\Programacao\Backend\CSharp\ListaClasses\bin\Debug\net7.0\ListaClasses.runtimeconfig.json
+C:\Programacao\Backend\CSharp\ListaClasses\bin\Debug\net7.0\ListaClasses.dll
+C:\Programacao\Backend\CSharp\ListaClasses\bin\Debug\net7.0\ListaClasses.pdb
+C:\Programacao\Backend\CSharp\ListaClasses\obj\Debug\net7.0\ListaClasses.csproj.AssemblyReference.cache
+C:\Programacao\Backend\CSharp\ListaClasses\obj\Debug\net7.0\ListaClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao\Backend\CSharp\ListaClasses\obj\Debug\net7.0\ListaClasses.AssemblyInfoInputs.cache
+C:\Programacao\Backend\CSharp\ListaClasses\obj\Debug\net7.0\ListaClasses.AssemblyInfo.cs
+C:\Programacao\Backend\CSharp\ListaClasses\obj\Debug\net7.0\ListaClasses.csproj.CoreCompileInputs.cache
+C:\Programacao\Backend\CSharp\ListaClasses\obj\Debug\net7.0\ListaClasses.dll
+C:\Programacao\Backend\CSharp\ListaClasses\obj\Debug\net7.0\refint\ListaClasses.dll
+C:\Programacao\Backend\CSharp\ListaClasses\obj\Debug\net7.0\ListaClasses.pdb
+C:\Programacao\Backend\CSharp\ListaClasses\obj\Debug\net7.0\ListaClasses.genruntimeconfig.cache
+C:\Programacao\Backend\CSharp\ListaClasses\obj\Debug\net7.0\ref\ListaClasses.dll

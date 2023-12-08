@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programacao\\Backend\\CSharp\\ListaClasses\\ListaClasses.csproj": {}
+    "C:\\Users\\lucas.cordeiro\\source\\Csharp\\CSharp\\ClassesMetodos\\Macaco_BananaEX\\ListaClasses.csproj": {}
   },
   "projects": {
-    "C:\\Programacao\\Backend\\CSharp\\ListaClasses\\ListaClasses.csproj": {
+    "C:\\Users\\lucas.cordeiro\\source\\Csharp\\CSharp\\ClassesMetodos\\Macaco_BananaEX\\ListaClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacao\\Backend\\CSharp\\ListaClasses\\ListaClasses.csproj",
+        "projectUniqueName": "C:\\Users\\lucas.cordeiro\\source\\Csharp\\CSharp\\ClassesMetodos\\Macaco_BananaEX\\ListaClasses.csproj",
         "projectName": "ListaClasses",
-        "projectPath": "C:\\Programacao\\Backend\\CSharp\\ListaClasses\\ListaClasses.csproj",
-        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacao\\Backend\\CSharp\\ListaClasses\\obj\\",
+        "projectPath": "C:\\Users\\lucas.cordeiro\\source\\Csharp\\CSharp\\ClassesMetodos\\Macaco_BananaEX\\ListaClasses.csproj",
+        "packagesPath": "C:\\Users\\lucas.cordeiro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas.cordeiro\\source\\Csharp\\CSharp\\ClassesMetodos\\Macaco_BananaEX\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\lucas.cordeiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,12 +48,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

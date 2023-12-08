@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "p4w4/bZlXjvy5Jbplmih8ylr/a5Nks7r7M8QZJ/nQ68JPpnLUWHPjrqIzqCika26xhKy6o03KX5oI7ov0F6E0w==",
+  "dgSpecHash": "gXCI3ds2klHPHZUq0Ing09vtiPQUqsRB3WH0pISV/wJ1MADfnnRDuQC5Lsv9oVB4erLvdF4Hz+pbtD1fGrFWMQ==",
   "success": true,
-  "projectFilePath": "C:\\Programacao\\Backend\\CSharp\\ListaClasses\\ListaClasses.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\lucas.cordeiro\\source\\Csharp\\CSharp\\ClassesMetodos\\Macaco_BananaEX\\ListaClasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas.cordeiro\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\lucas.cordeiro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\lucas.cordeiro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\lucas.cordeiro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

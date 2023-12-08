@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ListaClasses
-build_property.ProjectDir = C:\Programacao\Backend\CSharp\ListaClasses\
+build_property.ProjectDir = C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\Macaco_BananaEX\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -5,9 +5,9 @@
         public static void Main(string[] args)
         {
             Macaco macaco = new Macaco();
-            Banana banana = new Banana();
+            Banana fruta = new Banana();
 
-            Console.WriteLine("Item\n"+banana.banana);
+            Console.WriteLine("Item\n"+fruta.banana);
         }
 
     }

@@ -1,0 +1,15 @@
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\LeaoZebra\bin\Debug\net8.0\LeaoZebra.exe
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\LeaoZebra\bin\Debug\net8.0\LeaoZebra.deps.json
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\LeaoZebra\bin\Debug\net8.0\LeaoZebra.runtimeconfig.json
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\LeaoZebra\bin\Debug\net8.0\LeaoZebra.dll
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\LeaoZebra\bin\Debug\net8.0\LeaoZebra.pdb
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\LeaoZebra\obj\Debug\net8.0\LeaoZebra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\LeaoZebra\obj\Debug\net8.0\LeaoZebra.AssemblyInfoInputs.cache
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\LeaoZebra\obj\Debug\net8.0\LeaoZebra.AssemblyInfo.cs
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\LeaoZebra\obj\Debug\net8.0\LeaoZebra.csproj.CoreCompileInputs.cache
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\LeaoZebra\obj\Debug\net8.0\LeaoZebra.sourcelink.json
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\LeaoZebra\obj\Debug\net8.0\LeaoZebra.dll
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\LeaoZebra\obj\Debug\net8.0\refint\LeaoZebra.dll
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\LeaoZebra\obj\Debug\net8.0\LeaoZebra.pdb
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\LeaoZebra\obj\Debug\net8.0\LeaoZebra.genruntimeconfig.cache
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\LeaoZebra\obj\Debug\net8.0\ref\LeaoZebra.dll

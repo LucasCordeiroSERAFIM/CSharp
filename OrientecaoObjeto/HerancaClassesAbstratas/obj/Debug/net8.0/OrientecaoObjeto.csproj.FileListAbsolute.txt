@@ -1,0 +1,15 @@
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\OrientecaoObjeto\bin\Debug\net8.0\OrientecaoObjeto.exe
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\OrientecaoObjeto\bin\Debug\net8.0\OrientecaoObjeto.deps.json
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\OrientecaoObjeto\bin\Debug\net8.0\OrientecaoObjeto.runtimeconfig.json
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\OrientecaoObjeto\bin\Debug\net8.0\OrientecaoObjeto.dll
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\OrientecaoObjeto\bin\Debug\net8.0\OrientecaoObjeto.pdb
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\OrientecaoObjeto\obj\Debug\net8.0\OrientecaoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\OrientecaoObjeto\obj\Debug\net8.0\OrientecaoObjeto.AssemblyInfoInputs.cache
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\OrientecaoObjeto\obj\Debug\net8.0\OrientecaoObjeto.AssemblyInfo.cs
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\OrientecaoObjeto\obj\Debug\net8.0\OrientecaoObjeto.csproj.CoreCompileInputs.cache
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\OrientecaoObjeto\obj\Debug\net8.0\OrientecaoObjeto.sourcelink.json
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\OrientecaoObjeto\obj\Debug\net8.0\OrientecaoObjeto.dll
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\OrientecaoObjeto\obj\Debug\net8.0\refint\OrientecaoObjeto.dll
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\OrientecaoObjeto\obj\Debug\net8.0\OrientecaoObjeto.pdb
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\OrientecaoObjeto\obj\Debug\net8.0\OrientecaoObjeto.genruntimeconfig.cache
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\OrientecaoObjeto\obj\Debug\net8.0\ref\OrientecaoObjeto.dll

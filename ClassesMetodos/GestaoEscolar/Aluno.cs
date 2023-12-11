@@ -10,5 +10,8 @@ public double[] notas {get;set;}
     public Aluno(){
         Console.WriteLine("Classe aluno");
     }
+
+    
+    
 }
 }

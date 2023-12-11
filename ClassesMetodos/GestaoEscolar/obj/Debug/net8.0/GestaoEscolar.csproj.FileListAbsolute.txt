@@ -1,0 +1,15 @@
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\GestaoEscolar\bin\Debug\net8.0\GestaoEscolar.exe
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\GestaoEscolar\bin\Debug\net8.0\GestaoEscolar.deps.json
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\GestaoEscolar\bin\Debug\net8.0\GestaoEscolar.runtimeconfig.json
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\GestaoEscolar\bin\Debug\net8.0\GestaoEscolar.dll
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\GestaoEscolar\bin\Debug\net8.0\GestaoEscolar.pdb
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net8.0\GestaoEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net8.0\GestaoEscolar.AssemblyInfoInputs.cache
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net8.0\GestaoEscolar.AssemblyInfo.cs
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net8.0\GestaoEscolar.csproj.CoreCompileInputs.cache
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net8.0\GestaoEscolar.sourcelink.json
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net8.0\GestaoEscolar.dll
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net8.0\refint\GestaoEscolar.dll
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net8.0\GestaoEscolar.pdb
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net8.0\GestaoEscolar.genruntimeconfig.cache
+C:\Users\lucas.cordeiro\source\Csharp\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net8.0\ref\GestaoEscolar.dll

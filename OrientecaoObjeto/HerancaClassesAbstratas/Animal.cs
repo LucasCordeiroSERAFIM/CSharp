@@ -12,7 +12,7 @@ namespace ProjetoPOO{
          public string cor {get;set;}
 
         public  abstract void Mover();
-        public void comer(){
+        public void Comer(){
             Console.WriteLine("Comerr");
         }
     }

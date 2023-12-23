@@ -9,5 +9,9 @@ namespace ProjetoPOO{
         public string Voar(){
             return "Morcego voou";
         } 
+
+        public override Comer(){
+            console.WriteLine("morcego chupando sangue");
+        }
     }
 }

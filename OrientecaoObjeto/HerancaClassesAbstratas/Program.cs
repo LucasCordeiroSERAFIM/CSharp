@@ -12,7 +12,8 @@
     leao.Mover();
 
     leao.Rugir();
-
+    leao.Comer();
+    
     Morcego morcego = new Morcego();
     morcego.nome = "Bat Mirim";
     morcego.cor = "Pretinho";

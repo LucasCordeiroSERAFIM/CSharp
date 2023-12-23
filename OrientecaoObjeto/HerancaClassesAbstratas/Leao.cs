@@ -11,5 +11,9 @@ namespace ProjetoPOO{
             Console.WriteLine("uraaaaaa");
         }
 
+        public override Comer(){
+            console.WriteLine("Leão comendo");
+        }
+
     }
 }

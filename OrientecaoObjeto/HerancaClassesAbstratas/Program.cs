@@ -13,13 +13,14 @@
 
     leao.Rugir();
     leao.Comer();
-    
+
     Morcego morcego = new Morcego();
     morcego.nome = "Bat Mirim";
     morcego.cor = "Pretinho";
     morcego.peso = 0.500;
     morcego.Mover();
     morcego.Voar();
+    morcego.Comer();
 
     }
     }

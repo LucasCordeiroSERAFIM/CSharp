@@ -6,8 +6,11 @@ public int idade {get;set;}
 
 public string endereco {get;set;}   
 
-public double[] notas {get;set;}   
-    public Aluno(){
+public double nota1 {get;set;}
+public double nota2 { get; set; }
+public double nota3 { get; set; }
+public double nota4 { get; set; }
+        public Aluno(){
         Console.WriteLine("Classe aluno");
     }
 

@@ -1,0 +1,15 @@
+C:\Programacao\Backend\CSharp\ClassesMetodos\GestaoEscolar\bin\Debug\net7.0\GestaoEscolar.exe
+C:\Programacao\Backend\CSharp\ClassesMetodos\GestaoEscolar\bin\Debug\net7.0\GestaoEscolar.deps.json
+C:\Programacao\Backend\CSharp\ClassesMetodos\GestaoEscolar\bin\Debug\net7.0\GestaoEscolar.runtimeconfig.json
+C:\Programacao\Backend\CSharp\ClassesMetodos\GestaoEscolar\bin\Debug\net7.0\GestaoEscolar.dll
+C:\Programacao\Backend\CSharp\ClassesMetodos\GestaoEscolar\bin\Debug\net7.0\GestaoEscolar.pdb
+C:\Programacao\Backend\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net7.0\GestaoEscolar.csproj.AssemblyReference.cache
+C:\Programacao\Backend\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net7.0\GestaoEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao\Backend\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net7.0\GestaoEscolar.AssemblyInfoInputs.cache
+C:\Programacao\Backend\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net7.0\GestaoEscolar.AssemblyInfo.cs
+C:\Programacao\Backend\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net7.0\GestaoEscolar.csproj.CoreCompileInputs.cache
+C:\Programacao\Backend\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net7.0\GestaoEscolar.dll
+C:\Programacao\Backend\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net7.0\refint\GestaoEscolar.dll
+C:\Programacao\Backend\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net7.0\GestaoEscolar.pdb
+C:\Programacao\Backend\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net7.0\GestaoEscolar.genruntimeconfig.cache
+C:\Programacao\Backend\CSharp\ClassesMetodos\GestaoEscolar\obj\Debug\net7.0\ref\GestaoEscolar.dll

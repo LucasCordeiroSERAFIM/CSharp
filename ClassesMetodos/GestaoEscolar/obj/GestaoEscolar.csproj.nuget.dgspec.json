@@ -1,30 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas.cordeiro\\source\\Csharp\\CSharp\\ClassesMetodos\\GestaoEscolar\\GestaoEscolar.csproj": {}
+    "C:\\Programacao\\Backend\\CSharp\\ClassesMetodos\\GestaoEscolar\\GestaoEscolar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas.cordeiro\\source\\Csharp\\CSharp\\ClassesMetodos\\GestaoEscolar\\GestaoEscolar.csproj": {
+    "C:\\Programacao\\Backend\\CSharp\\ClassesMetodos\\GestaoEscolar\\GestaoEscolar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas.cordeiro\\source\\Csharp\\CSharp\\ClassesMetodos\\GestaoEscolar\\GestaoEscolar.csproj",
+        "projectUniqueName": "C:\\Programacao\\Backend\\CSharp\\ClassesMetodos\\GestaoEscolar\\GestaoEscolar.csproj",
         "projectName": "GestaoEscolar",
-        "projectPath": "C:\\Users\\lucas.cordeiro\\source\\Csharp\\CSharp\\ClassesMetodos\\GestaoEscolar\\GestaoEscolar.csproj",
-        "packagesPath": "C:\\Users\\lucas.cordeiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas.cordeiro\\source\\Csharp\\CSharp\\ClassesMetodos\\GestaoEscolar\\obj\\",
+        "projectPath": "C:\\Programacao\\Backend\\CSharp\\ClassesMetodos\\GestaoEscolar\\GestaoEscolar.csproj",
+        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Programacao\\Backend\\CSharp\\ClassesMetodos\\GestaoEscolar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lucas.cordeiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +37,14 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Console": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

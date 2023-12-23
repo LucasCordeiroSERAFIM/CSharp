@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "MKHm1onpLVoWc17bwqhtIJufm9TSKFxzt/uWKu7Ms9afQLGNPGEMEt3JLSdRvgS5AwBYNHAIQ2XQ+ug+Wn2Cag==",
+  "dgSpecHash": "/pV5Ei36ZWjPHaXH9LCJJr5/H3DG/etmy/oYbmxAYmOM+qdSqcus1o1IMoxlQQKKetvo2JH9/zD83xIY14SPbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.cordeiro\\source\\Csharp\\CSharp\\ClassesMetodos\\GestaoEscolar\\GestaoEscolar.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Programacao\\Backend\\CSharp\\ClassesMetodos\\GestaoEscolar\\GestaoEscolar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.targets\\1.1.2\\microsoft.netcore.targets.1.1.2.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\system.console\\4.3.1\\system.console.4.3.1.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

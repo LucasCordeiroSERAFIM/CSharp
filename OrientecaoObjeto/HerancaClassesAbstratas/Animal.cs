@@ -11,7 +11,9 @@ namespace ProjetoPOO{
 
          public string cor {get;set;}
 
-        public  abstract void Mover();
+        public  abstract void Mover(){
+            console.WriteLine("Classe Animal movendo");
+        }
         public void Comer(){
             Console.WriteLine("Comerr");
         }

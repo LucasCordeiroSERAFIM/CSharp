@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b5maeEq6tXwNMjMNv8I8ZABh6ie9H8tnZn4/EDvO+SUFpexyxp9ynVKjnDwsCZf/xkSSfABcgyItiIwtsXi6RQ==",
+  "dgSpecHash": "Wga/2Hdiop+QxETtdEdkjgEF0Pf962e9mQfik/VOUUMGWpNtC1/A/Jd2nS9G+JB2Uy1mGGy31kU55GoIL/9adw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.cordeiro\\source\\Csharp\\CSharp\\OrientecaoObjeto\\OrientecaoObjeto.csproj",
+  "projectFilePath": "C:\\Programacao\\Backend\\CSharp\\OrientecaoObjeto\\HerancaClassesAbstratas\\OrientecaoObjeto.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

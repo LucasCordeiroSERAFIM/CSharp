@@ -1,36 +1,38 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lucas.cordeiro\\.nuget\\packages\\": {}
+    "C:\\Users\\Lucas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas.cordeiro\\source\\Csharp\\CSharp\\OrientecaoObjeto\\OrientecaoObjeto.csproj",
+      "projectUniqueName": "C:\\Programacao\\Backend\\CSharp\\OrientecaoObjeto\\HerancaClassesAbstratas\\OrientecaoObjeto.csproj",
       "projectName": "OrientecaoObjeto",
-      "projectPath": "C:\\Users\\lucas.cordeiro\\source\\Csharp\\CSharp\\OrientecaoObjeto\\OrientecaoObjeto.csproj",
-      "packagesPath": "C:\\Users\\lucas.cordeiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas.cordeiro\\source\\Csharp\\CSharp\\OrientecaoObjeto\\obj\\",
+      "projectPath": "C:\\Programacao\\Backend\\CSharp\\OrientecaoObjeto\\HerancaClassesAbstratas\\OrientecaoObjeto.csproj",
+      "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+      "outputPath": "C:\\Programacao\\Backend\\CSharp\\OrientecaoObjeto\\HerancaClassesAbstratas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lucas.cordeiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

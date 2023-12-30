@@ -1,4 +1,5 @@
-﻿namespace ProjetoPOO
+﻿using System;
+namespace ProjetoPOO
 {
     public class Program{
     public static void Main(string[] args){
@@ -7,22 +8,19 @@
     leao.nome = "Leoneto";
     leao.peso = 150.50;
     leao.cor = "Rosa";
-    leao.abtate = "Savana";
+    //leao.Mover();
+   // leao.Rugir();
+   // leao.Comer();
 
-    leao.Mover();
+    Louro louro = new Louro();
+            louro.nome = "Bat Mirim";
+            louro.cor = "Pretinho";
+            louro.peso = 0.500;
+            // louro.Mover();
+            // louro.Voar();
+            // louro.Comer();
 
-    leao.Rugir();
-    leao.Comer();
-
-    Morcego morcego = new Morcego();
-    morcego.nome = "Bat Mirim";
-    morcego.cor = "Pretinho";
-    morcego.peso = 0.500;
-    morcego.Mover();
-    morcego.Voar();
-    morcego.Comer();
-
-    }
+        }
     }
     
     

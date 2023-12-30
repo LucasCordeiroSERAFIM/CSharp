@@ -1,0 +1,5 @@
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\obj\Debug\net7.0\OrientecaoObjeto.csproj.AssemblyReference.cache
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\obj\Debug\net7.0\OrientecaoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\obj\Debug\net7.0\OrientecaoObjeto.AssemblyInfoInputs.cache
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\obj\Debug\net7.0\OrientecaoObjeto.AssemblyInfo.cs
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\obj\Debug\net7.0\OrientecaoObjeto.csproj.CoreCompileInputs.cache

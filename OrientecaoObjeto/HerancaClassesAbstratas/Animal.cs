@@ -1,3 +1,4 @@
+using System;
 namespace ProjetoPOO{
     public abstract class Animal{
         // classe abstrata nao instancia 
@@ -11,12 +12,7 @@ namespace ProjetoPOO{
 
          public string cor {get;set;}
 
-        public  abstract void Mover(){
-            console.WriteLine("Classe Animal movendo");
-        }
-        public void Comer(){
-            Console.WriteLine("Comerr");
-        }
+     
     }
     
 }

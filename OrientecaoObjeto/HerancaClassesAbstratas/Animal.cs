@@ -12,7 +12,13 @@ namespace ProjetoPOO{
 
          public string cor {get;set;}
 
-     
+
+        public abstract void SeMover();
+      
+     public void SeAlimenta()
+        {
+            Console.WriteLine("Animal se alimentando");
+        }
     }
     
 }

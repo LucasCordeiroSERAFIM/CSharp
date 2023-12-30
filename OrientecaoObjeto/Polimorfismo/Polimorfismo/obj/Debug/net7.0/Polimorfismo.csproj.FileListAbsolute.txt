@@ -1,0 +1,15 @@
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.exe
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.deps.json
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.runtimeconfig.json
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.dll
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.pdb
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.csproj.AssemblyReference.cache
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.AssemblyInfo.cs
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.dll
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\Polimorfismo\Polimorfismo\obj\Debug\net7.0\refint\Polimorfismo.dll
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.pdb
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.genruntimeconfig.cache
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\Polimorfismo\Polimorfismo\obj\Debug\net7.0\ref\Polimorfismo.dll

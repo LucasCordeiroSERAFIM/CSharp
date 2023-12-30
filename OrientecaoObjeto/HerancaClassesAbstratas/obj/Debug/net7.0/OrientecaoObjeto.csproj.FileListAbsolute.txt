@@ -3,3 +3,13 @@ C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\obj\Debug
 C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\obj\Debug\net7.0\OrientecaoObjeto.AssemblyInfoInputs.cache
 C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\obj\Debug\net7.0\OrientecaoObjeto.AssemblyInfo.cs
 C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\obj\Debug\net7.0\OrientecaoObjeto.csproj.CoreCompileInputs.cache
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\bin\Debug\net7.0\OrientecaoObjeto.exe
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\bin\Debug\net7.0\OrientecaoObjeto.deps.json
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\bin\Debug\net7.0\OrientecaoObjeto.runtimeconfig.json
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\bin\Debug\net7.0\OrientecaoObjeto.dll
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\bin\Debug\net7.0\OrientecaoObjeto.pdb
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\obj\Debug\net7.0\OrientecaoObjeto.dll
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\obj\Debug\net7.0\refint\OrientecaoObjeto.dll
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\obj\Debug\net7.0\OrientecaoObjeto.pdb
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\obj\Debug\net7.0\OrientecaoObjeto.genruntimeconfig.cache
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\HerancaClassesAbstratas\obj\Debug\net7.0\ref\OrientecaoObjeto.dll

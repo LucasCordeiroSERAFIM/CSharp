@@ -1,0 +1,15 @@
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\1Alunos\1Alunos\bin\Debug\net7.0\1Alunos.exe
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\1Alunos\1Alunos\bin\Debug\net7.0\1Alunos.deps.json
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\1Alunos\1Alunos\bin\Debug\net7.0\1Alunos.runtimeconfig.json
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\1Alunos\1Alunos\bin\Debug\net7.0\1Alunos.dll
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\1Alunos\1Alunos\bin\Debug\net7.0\1Alunos.pdb
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\1Alunos\1Alunos\obj\Debug\net7.0\1Alunos.csproj.AssemblyReference.cache
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\1Alunos\1Alunos\obj\Debug\net7.0\1Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\1Alunos\1Alunos\obj\Debug\net7.0\1Alunos.AssemblyInfoInputs.cache
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\1Alunos\1Alunos\obj\Debug\net7.0\1Alunos.AssemblyInfo.cs
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\1Alunos\1Alunos\obj\Debug\net7.0\1Alunos.csproj.CoreCompileInputs.cache
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\1Alunos\1Alunos\obj\Debug\net7.0\1Alunos.dll
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\1Alunos\1Alunos\obj\Debug\net7.0\refint\1Alunos.dll
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\1Alunos\1Alunos\obj\Debug\net7.0\1Alunos.pdb
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\1Alunos\1Alunos\obj\Debug\net7.0\1Alunos.genruntimeconfig.cache
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\1Alunos\1Alunos\obj\Debug\net7.0\ref\1Alunos.dll

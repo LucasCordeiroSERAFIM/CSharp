@@ -1,0 +1,15 @@
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\2Calculadora\2Calculadora\bin\Debug\net7.0\2Calculadora.exe
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\2Calculadora\2Calculadora\bin\Debug\net7.0\2Calculadora.deps.json
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\2Calculadora\2Calculadora\bin\Debug\net7.0\2Calculadora.runtimeconfig.json
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\2Calculadora\2Calculadora\bin\Debug\net7.0\2Calculadora.dll
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\2Calculadora\2Calculadora\bin\Debug\net7.0\2Calculadora.pdb
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\2Calculadora\2Calculadora\obj\Debug\net7.0\2Calculadora.csproj.AssemblyReference.cache
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\2Calculadora\2Calculadora\obj\Debug\net7.0\2Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\2Calculadora\2Calculadora\obj\Debug\net7.0\2Calculadora.AssemblyInfoInputs.cache
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\2Calculadora\2Calculadora\obj\Debug\net7.0\2Calculadora.AssemblyInfo.cs
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\2Calculadora\2Calculadora\obj\Debug\net7.0\2Calculadora.csproj.CoreCompileInputs.cache
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\2Calculadora\2Calculadora\obj\Debug\net7.0\2Calculadora.dll
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\2Calculadora\2Calculadora\obj\Debug\net7.0\refint\2Calculadora.dll
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\2Calculadora\2Calculadora\obj\Debug\net7.0\2Calculadora.pdb
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\2Calculadora\2Calculadora\obj\Debug\net7.0\2Calculadora.genruntimeconfig.cache
+C:\Programacao\Backend\CSharp\OrientecaoObjeto\ListaExercicios\2Calculadora\2Calculadora\obj\Debug\net7.0\ref\2Calculadora.dll

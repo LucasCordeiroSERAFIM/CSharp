@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _03GestaoEstoque
+namespace Ex03GestaoEstoque
 {
     public abstract class Cliente : ICliente
     {

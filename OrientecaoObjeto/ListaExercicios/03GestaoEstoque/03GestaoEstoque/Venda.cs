@@ -25,7 +25,7 @@ namespace Ex03GestaoEstoque
             double total = 0;
             foreach (var item in Itens)
             {
-                total += item.Preco;
+                total += item.Valor;
             }
             return total;
         }

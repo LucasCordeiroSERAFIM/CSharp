@@ -8,6 +8,7 @@ namespace Ex03GestaoEstoque
 {
     public  class Gestao
     {
+        // Listar itens
         private List<Cliente> clientes;
         private List<Produto> produtos;
         private List<Venda> vendas;
@@ -15,40 +16,47 @@ namespace Ex03GestaoEstoque
 
         public Gestao()
         {
+            // estancia das listas 
             clientes = new List<Cliente>();
             produtos = new List<Produto>();
             vendas = new List<Venda>();
         }
 
-        public void CadastrarUCliente(Cliente cliente)
+        // cadastrar cliente 
+        public void CadastrarCliente(Cliente cliente)
         {
             clientes.Add(cliente);
             Console.WriteLine("Usuário cadastrado com sucesso!");
         }
 
+        // listar cliente
         public void ListarCliente()
         {
             Console.WriteLine("Lista de Usuários:");
             foreach (var c in clientes)
             {
-                Console.WriteLine($"Nome: {c.Nome} - Tipo: {c.Tipo}");
+                Console.WriteLine($"Nome: {c.Nome} - Tipo: {c.Tipo} - Endereco: {c.Endereco}");
             }
         }
 
+        // cadastrar produto
         public void CadastrarProduto(Produto produto)
         {
             produtos.Add(produto);
             Console.WriteLine("Produto cadastrado com sucesso!");
         }
 
+        // listar produto
         public void ListarProdutos()
         {
             Console.WriteLine("Lista de Produtos:");
             foreach (var produto in produtos)
             {
-                Console.WriteLine($"Nome: {produto.Descricao} - Preço: {produto.Preco:C} - Estoque: {produto.Estoque}");
+                Console.WriteLine($"Nome: {produto.Descricao} - Preço: {produto.Valor:C} - Estoque: {produto.Estoque}");
             }
         }
+
+        // realizar venda
         public void RealizarVenda(Venda venda)
         {
             vendas.Add(venda);

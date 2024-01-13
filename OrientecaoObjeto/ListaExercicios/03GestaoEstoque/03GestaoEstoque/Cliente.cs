@@ -14,7 +14,18 @@ namespace Ex03GestaoEstoque
 
         public string Endereco { get; set; }
 
+        public List<Venda> Vendas { get; set; } = new List<Venda>();
+
         // implementacao metodo da interface
         public abstract string Tipo { get; }
+
+        // implementando o médoto de venda 
+
+        public void RealizarVenda(List<Produto> itens)
+        {
+            Venda venda = new Venda(this.Nome, itens);
+            Vendas.Add(venda);
+            Console.WriteLine($"Venda realizada para o usuário {this.Nome}!");
+        }
     }
 }

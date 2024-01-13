@@ -11,7 +11,8 @@ Exercício 2 - Crie uma calculadora que possua as quatro operações matemática
 
 
 
-Exercício 3 - Crie um sistema de gestão de estoque, esse sistema deverá permitir: Cadastro e listagem de pessoas, cadastro e listagem de produtos e cadastro e listagem de vendas. 
+Exercício 3 - Crie um sistema de gestão de estoque, esse sistema deverá permitir: Cadastro e listagem de pessoas, cadastro e listagem de produtos e
+cadastro e listagem de vendas. 
 
 Requisitos: 
 

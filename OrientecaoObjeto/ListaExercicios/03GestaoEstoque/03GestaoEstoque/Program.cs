@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace Ex03GestaoEstoque
 
 {
@@ -52,6 +54,18 @@ namespace Ex03GestaoEstoque
             // listar clientes e produtos
             //gestao.ListarCliente();
             gestao.ListarProdutos();
+
+
+            //venda 
+
+            // Exemplo de venda para um usuário padrão
+            clientePadrao.RealizarVenda(new List<Produto> { cocaColaLitro, leite });
+
+            // Exemplo de venda para um usuário administrador
+            clienteespecial.RealizarVenda(new List<Produto> { AlmondegaLata, cocaColaLitro, leite });
+
+
+            gestao.ListarVendas();
         }
     }
 }

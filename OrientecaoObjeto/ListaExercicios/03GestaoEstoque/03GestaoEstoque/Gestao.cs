@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ex03GestaoEstoque
 {
-    public  class Gestao
+    public class Gestao
     {
         // Listar itens
         private List<Cliente> clientes;
@@ -56,6 +56,7 @@ namespace Ex03GestaoEstoque
             }
         }
 
+        // listagem de vendas 
         // realizar venda
         public void RealizarVenda(Venda venda)
         {
@@ -72,4 +73,7 @@ namespace Ex03GestaoEstoque
             }
         }
     }
+
 }
+
+

@@ -56,14 +56,14 @@ namespace Ex03GestaoEstoque
             }
         }
 
-        // listagem de vendas 
-        // realizar venda
-        public void RealizarVenda(Venda venda)
+
+        // cadastrar Venda 
+        public void CadastrarVenda(Venda venda)
         {
             vendas.Add(venda);
-            Console.WriteLine("Venda realizada com sucesso!");
+            Console.WriteLine("Venda cadastrada com sucesso!");
         }
-
+        // listagem de vendas 
         public void ListarVendas()
         {
             Console.WriteLine("Lista de Vendas:");
@@ -72,6 +72,8 @@ namespace Ex03GestaoEstoque
                 Console.WriteLine($"Cliente: {venda.Cliente} - Total: {venda.Total:C}");
             }
         }
+
+        
     }
 
 }

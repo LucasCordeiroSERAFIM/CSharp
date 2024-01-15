@@ -13,21 +13,17 @@ namespace Ex03GestaoEstoque
         public List<Produto> Itens { get; set; }
         public double Total { get; set; }
 
-        public Venda(string cliente, List<Produto> itens)
+        public double Caixa(string cliente, List<Produto> itens)
         {
             Cliente = cliente;
             Itens = itens;
-            Total = CalcularTotal();
-        }
+            Total = 0;
 
-        private double CalcularTotal()
-        {
-            double total = 0;
-            foreach (var item in Itens)
+             foreach (var item in Itens)
             {
-                total += item.Valor;
+                Total += item.Valor;
             }
-            return total;
+            return Total;
         }
     }
 }

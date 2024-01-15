@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "g67Fe4UNHx6lCTdTWfVp0eaEZGF0G4bBeznjKen4z0COqVmjfINlmQHwWOAw4umFyv3t0Xs0NpnGnOVTrHv0MA==",
+  "dgSpecHash": "qOYsQ8w/Lc6JpkQbInCjteHZ7Qv2DPeRGk0ZLHIhbxC2r98p7qgVQkMWAaHn6ZKEhH2vbMdbClrhqUg/QJ+SXA==",
   "success": true,
-  "projectFilePath": "C:\\Programacao\\Backend\\CSharp\\OrientecaoObjeto\\ListaExercicios\\03GestaoEstoque\\03GestaoEstoque\\03GestaoEstoque.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\lucas.cordeiro\\source\\CSharp\\OrientecaoObjeto\\ListaExercicios\\03GestaoEstoque\\03GestaoEstoque\\03GestaoEstoque.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas.cordeiro\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\lucas.cordeiro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\lucas.cordeiro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\lucas.cordeiro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

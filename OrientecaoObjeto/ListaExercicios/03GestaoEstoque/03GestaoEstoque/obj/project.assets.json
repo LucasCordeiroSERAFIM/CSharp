@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Lucas\\.nuget\\packages\\": {}
+    "C:\\Users\\lucas.cordeiro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programacao\\Backend\\CSharp\\OrientecaoObjeto\\ListaExercicios\\03GestaoEstoque\\03GestaoEstoque\\03GestaoEstoque.csproj",
+      "projectUniqueName": "C:\\Users\\lucas.cordeiro\\source\\CSharp\\OrientecaoObjeto\\ListaExercicios\\03GestaoEstoque\\03GestaoEstoque\\03GestaoEstoque.csproj",
       "projectName": "03GestaoEstoque",
-      "projectPath": "C:\\Programacao\\Backend\\CSharp\\OrientecaoObjeto\\ListaExercicios\\03GestaoEstoque\\03GestaoEstoque\\03GestaoEstoque.csproj",
-      "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Programacao\\Backend\\CSharp\\OrientecaoObjeto\\ListaExercicios\\03GestaoEstoque\\03GestaoEstoque\\obj\\",
+      "projectPath": "C:\\Users\\lucas.cordeiro\\source\\CSharp\\OrientecaoObjeto\\ListaExercicios\\03GestaoEstoque\\03GestaoEstoque\\03GestaoEstoque.csproj",
+      "packagesPath": "C:\\Users\\lucas.cordeiro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lucas.cordeiro\\source\\CSharp\\OrientecaoObjeto\\ListaExercicios\\03GestaoEstoque\\03GestaoEstoque\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lucas.cordeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,12 +56,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
